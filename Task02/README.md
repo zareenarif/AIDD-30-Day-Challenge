@@ -31,8 +31,9 @@ Thinking in layers helps you understand how different parts of the system connec
 
 ## Task B : 
 
-![Gemini CLI Response](Gemini-CLI-response.jpg)
+![User Prompt](user.jpg)
 
+![Gemini CLI Response](gemini-cli.jpg)
 
 ## Task C : 
 ### MCQS
