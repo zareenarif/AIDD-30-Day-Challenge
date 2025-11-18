@@ -39,13 +39,13 @@ Thinking in layers helps you understand how different parts of the system connec
 ### MCQS
 
 
-4 : What is the main purpose of Spec-Driven Development?
+1 : What is the main purpose of Spec-Driven Development?
 B. Clear requirements before coding begins
 
-4 : What is the biggest mindset shift in AI-Driven Development?
+2 : What is the biggest mindset shift in AI-Driven Development?
 B. Thinking in systems and clear instructions
 
-4 : Biggest failure of Vibe Coding?
+3 : Biggest failure of Vibe Coding?
 B. Architecture becomes hard to extend
 
 4 : Main advantage of using AI CLI agents (like Gemini CLI)?
